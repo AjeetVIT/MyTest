@@ -1,7 +1,7 @@
 class Student{
-  int id;
-  String name;
-  double fee;
+  int sid;
+  String sname;
+  double sfee;
   String gender;
   boolean active;
   
